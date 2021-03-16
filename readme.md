@@ -44,10 +44,10 @@ HID Library https://github.com/adafruit/Adafruit_CircuitPython_HID
 
 
 # Thanks
-Swiss accent guy from youtube
-Guy with the Teensy fetishe that moves hands a lot from youtube
-Excellent basic tutorials asian guy
-subreddit of mechanicalswitches
-FGC
-thnikk
-adrian dale
+Swiss accent guy from youtube  
+Guy with the Teensy fetishe that moves hands a lot from youtube  
+Excellent basic tutorials asian guy  
+subreddit of mechanicalswitches  
+FGC  
+thnikk  
+adrian dale  
