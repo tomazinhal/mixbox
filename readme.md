@@ -44,10 +44,10 @@ HID Library https://github.com/adafruit/Adafruit_CircuitPython_HID
 
 
 # Thanks
-Swiss accent guy from youtube  
-Guy with the Teensy fetishe that moves hands a lot from youtube  
-Excellent basic tutorials asian guy  
-subreddit of mechanicalswitches  
-FGC  
-thnikk  
-adrian dale  
+Andreas Spiess [youtube](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ)  
+Zack Freedman [youtube](https://www.youtube.com/channel/UCUW49KGPezggFi0PGyDvcvg)  
+Don @ Novaspirit Tech [youtube](https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)  
+[r/mechanicalkeyboards](https://www.reddit.com/r/mechanicalkeyboards)  
+FGC (Fighting Game Community)  
+thnikk [website](https://thnikk.moe/)  
+Adrian Dale [website](http://adriandale.com/)  
