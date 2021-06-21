@@ -1,3 +1,6 @@
+from socd import NeutralCleaner
+
+
 UP = {
     'up': True,
     'down': False,
@@ -56,3 +59,8 @@ def directions_left_right():
     directions = [LEFT, LEFT_RIGHT, RIGHT]
     for direction in directions.copy():
         yield direction
+
+class Mockpad:
+    def __init__(self):
+        pass
+
