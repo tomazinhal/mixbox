@@ -10,7 +10,7 @@ class Button:
         self.pin.direction = Direction.INPUT
 
     def read(self):
-        return pin.value
+        return self.pin.value
 
     def __repr__(self):
         print(f"Button {self.name} on {self.pin} is bound to action {self.id}")

@@ -2,4 +2,4 @@
 .git
 *_src
 venv
-
+*.pyc

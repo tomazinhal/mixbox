@@ -28,7 +28,7 @@ class Gamepad:
         self.cleaner = cleaner
 
     def read_directions(self):
-        return cleaner.clean({dir.name: dir.read() for dir in self.directions()})
+        return self.cleaner.clean({dir.name: dir.read() for dir in self.directions()})
 
     def read_actions(self):
         return {a.name: a.read() for a in self.actions()}
